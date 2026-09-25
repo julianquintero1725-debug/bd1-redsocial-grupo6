@@ -19,3 +19,9 @@ o interés, y programar eventos académicos y sociales.
   requerimientos, entidades, atributos, relaciones y justificación del 
   modelo conceptual.
 - `Tarea1/Video`: enlace al video de sustentación en YouTube.
+
+-  `Tarea2/Informe`: informe detallado (PDF) con el análisis de 
+  requerimientos, entidades, atributos, relaciones y justificación del 
+  modelo conceptual.
+- `Tarea2/Video`: enlace al video de sustentación en YouTube.
+
